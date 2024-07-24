@@ -41,3 +41,4 @@ Todo Item Structure: Each todo item is structured as a list item (li) containing
 Dynamic Updates: Adding, checking off, and deleting todo items update the DOM and the todo list array in real-time.
 Persistent Storage: The todo list is saved in local storage, allowing the user to retain their tasks across sessions.
 This task effectively demonstrates a practical use of HTML, CSS, and JavaScript to create an interactive web application with persistent data storage.
+![Screenshot 2024-07-24 180106](https://github.com/user-attachments/assets/fddfe65f-b507-453d-bc76-449b37a1bb34)
